@@ -1,4 +1,4 @@
-### Oy 👋
+## Oy 👋
 ### **Languages I know:**
 x86 Assembly, C, BASIC, sh/bash, and Scratch<br>
 ### **Im currently working on:**
