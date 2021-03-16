@@ -6,4 +6,4 @@ x86 Assembly, C, BASIC, sh/bash, and Scratch<br>
 I co-moderate a Discord server called [GeneraLinux]() with [Smart6502/Xenon6502](http://github.com/smart6502)<br>
 ### **Contact me:**
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com) (It may take a while for me to respond as I get quite a bit of spam.)<br>
-**Discord:** PQCraft#0128<br>
+**Discord:** `PQCraft#0128`<br>
