@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-TODO: fill the dots
- * test
-*
-*
+TODO: 
+* fill here
+* fill here
+* fill here
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PQCraft)](https://github.com/PQCraft)
 
