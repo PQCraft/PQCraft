@@ -1,4 +1,7 @@
-## Oy 👋
+### Oy 👋
+
+---
+
 ### **Languages I Know:** <br>
 x86 Assembly, C++, C, BASIC, sh/bash, and Scratch<br>
 ### **What I'm Currently Working On:** <br>
@@ -10,4 +13,5 @@ I co-moderate a Discord server called [GeneraLinux](https://discord.gg/3Yh6JERUx
 
 ---
 
+### **Most Used Languages:**
 [![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PQCraft)](https://github.com/PQCraft)
