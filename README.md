@@ -1,9 +1,13 @@
 ## Oy 👋
-### **Languages I know:**
-x86 Assembly, C, BASIC, sh/bash, and Scratch<br>
-### **Im currently working on:**
+### **Languages I Know:** <br>
+x86 Assembly, C++, C, BASIC, sh/bash, and Scratch<br>
+### **What I'm Currently Working On:** <br>
 [clibasic](https://github.com/PQCraft/clibasic) and [SCPU-16](https://scratch.mit.edu/projects/425617355)<br>
 I co-moderate a Discord server called [GeneraLinux](https://discord.gg/3Yh6JERUx2) with [Smart6502/Xenon6502](http://github.com/smart6502)<br>
-### **Contact me:**
+### **Contact Me:** <br>
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com) (It may take a while for me to respond as I get quite a bit of spam.)<br>
 **Discord:** `PQCraft#0128`<br>
+
+---
+
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PQCraft)](https://github.com/PQCraft)
