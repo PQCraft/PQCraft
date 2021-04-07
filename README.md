@@ -3,7 +3,7 @@
 ---
 
 ### **Languages I Know:** <br>
-x86 Assembly, C++, C, BASIC, sh/bash, and Scratch<br>
+x86 Assembly, C++, C, BASIC, sh/bash, HTML, CSS, JavaScript, and Scratch<br>
 ### **What I'm Currently Working On:** <br>
 [clibasic](https://github.com/PQCraft/clibasic) and [SCPU-16](https://scratch.mit.edu/projects/425617355)<br>
 I co-moderate a Discord server called [GeneraLinux](https://discord.gg/3Yh6JERUx2) with [Smart6502/Xenon6502](http://github.com/smart6502)<br>
