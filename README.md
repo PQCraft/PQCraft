@@ -14,4 +14,4 @@ I co-moderate a Discord server called [GeneraLinux](https://discord.gg/3Yh6JERUx
 ---
 
 ### **Most Used Languages:**
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=PQCraft)](https://github.com/PQCraft)
+[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pqcraft&layout=compact&theme=tokyonight)](https://github.com/PQCraft)
