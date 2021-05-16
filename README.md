@@ -13,4 +13,7 @@ I co-moderate a Discord server called [GeneraLinux](https://discord.gg/3Yh6JERUx
 
 ---
 
-[![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pqcraft&layout=compact&theme=github_dark&hide_border=true)](https://github.com/PQCraft)
+[
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pqcraft&layout=compact&theme=github_dark&hide_border=true)<br>
+![Stats](https://github-readme-stats.vercel.app/api?username=pqcraft&show_icons=true&theme=github_dark&hide_border=true)
+](https://github.com/PQCraft)
