@@ -1,16 +1,16 @@
-### Oy 👋
+### Hi 👋
 
 ---
 
-### **Languages I Know:** <br>
-x86 Assembly, C, C++, BASIC, Shell Script, Batch Script, HTML, CSS, JavaScript, and Scratch<br>
+### **Languages:** <br>
+**I know (oredered by level, low to high):** x86 AT&T Assembly, x86 Intel Assembly, C, C++, Shell Script, Batch Script, BASIC, HTML, CSS, JavaScript, and Scratch<br>
 **Top 3 favorites:** C, Shell Script, and BASIC<br>
 **Top 3 least-favorites:** C++, Batch Script, and CSS<br>
 ### **What I'm Currently Working On:** <br>
 [CLIBASIC](https://github.com/PQCraft/clibasic), [PAPMW](https://github.com/PQCraft/papmw), [Digitus](https://github.com/PQCraft/Digitus), and [SCPU-16](https://scratch.mit.edu/projects/425617355)<br>
 I co-moderate a Discord server called [GeneraLinux](https://discord.gg/3Yh6JERUx2) with [Smart6502/Xenon6502](http://github.com/smart6502)<br>
 ### **Contact Me:** <br>
-**Email:** [0456523@gmail.com](mailto:0456523@gmail.com) (It may take a while for me to respond as I get quite a bit of spam.)<br>
+**Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
 **Discord:** `PQCraft#0128`<br>
 
 ---
