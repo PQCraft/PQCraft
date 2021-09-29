@@ -12,6 +12,8 @@ I co-moderate a Discord server called [GeneraLinux](https://discord.gg/3Yh6JERUx
 ### **Contact Me:** <br>
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
 **Discord:** `PQCraft#0128`<br>
+### **P.S.:** <br>
+If you have followed me and I unfollow you after following you, this is most likely because you blew up my activy page and Github doesn't have an option to silence activity without blocking or unfollowing.
 
 ---
 
