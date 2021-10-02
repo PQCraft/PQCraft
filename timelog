@@ -1,0 +1,3 @@
+#!/bin/bash
+if [ ! "$*" ]; then echo "Please provide a command."; exit 1; fi
+("$@") | while read line; do printf "\e[0m[%s] %s\n" "$(date +'%D %T.%3N')" "$line"; done

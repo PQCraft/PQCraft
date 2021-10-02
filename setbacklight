@@ -1,0 +1,2 @@
+#!/bin/bash
+echo $(("$@"*255/100)) > /sys/class/backlight/amdgpu_bl0/brightness
