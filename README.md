@@ -7,7 +7,7 @@
 **Top 3 favorites:** C, Shell Script, and BASIC<br>
 **Top 3 least-favorites:** C++, Batch Script, and CSS<br>
 ### **What I'm Currently Working On:** <br>
-[Wizardry](https://github.com/PQWare/Wizardry)<br>
+[Wizardry](https://github.com/Wizardry-PL/Wizardry) and [CaveCube](https://github.com/PQCraft/CaveCube)<br>
 ### **Miscellaneous:** <br>
 I own a Discord server named [The Linux Space](https://discord.gg/AFe6Acxr78) and co-moderate [GeneraLinux](https://discord.gg/3Yh6JERUx2) with [Smart6502/Xenon6502](http://github.com/smart6502)<br>
 ### **Contact Me:** <br>
