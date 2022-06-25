@@ -8,11 +8,8 @@
 **Top 3 least-favorites:** C++, Batch Script, and CSS<br>
 ### **What I'm Currently Working On:** <br>
 [CaveCube](https://github.com/PQCraft/CaveCube) and [Wizardry](https://github.com/Wizardry-PL)<br>
-### **Miscellaneous:** <br>
-I own a Discord server named [The Linux Space](https://discord.gg/AFe6Acxr78) and co-moderate [GeneraLinux](https://discord.gg/3Yh6JERUx2) with [Smart6502/Xenon6502](http://github.com/smart6502)<br>
 ### **Contact Me:** <br>
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
-**Discord:** `PQCraft#4554`<br>
 
 ---
 
