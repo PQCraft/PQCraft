@@ -15,7 +15,7 @@
   <style name="search-match" foreground="#ffffff" background="#00BF8C" />
   <style name="bookmark" background="#777777" />
   <style name="def:comment" foreground="#62a0ea" italic="true" />
-  <style name="def:shebang" italic="true" />
+  <style name="def:shebang" foreground="#62a0ea" bold="true" italic="true" />
   <style name="def:doc-comment-element" bold="true" />
   <style name="def:constant" foreground="#f9f06b" />
   <style name="def:string" foreground="#39d900" />

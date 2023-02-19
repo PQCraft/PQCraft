@@ -1,3 +1,4 @@
 #!/bin/bash
-if [ ! "$*" ]; then echo "Please provide a command."; exit 1; fi
-("$@") | while read line; do printf "\e[0m[%s] %s\n" "$(date +'%D %T.%3N')" "$line"; done
+CSTR="$(echo "$(printf "%q" "$(printf "${1+%q }" "$@")" | sed 's/..$//')\ 2>&1")"
+err="$((socat -s - system:"$CSTR",pty | while read -r line; do printf "\e[0m[%s] %s\n" "$(date +'%D %T.%3N')" "$line"; done) 3>&1 1>&2 2>&3)"
+[[ -z "$err" ]] && exit 0 || exit "${err##* }"
