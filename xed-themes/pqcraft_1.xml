@@ -1,0 +1,62 @@
+<style-scheme name="PQCraft 1" id="pqcraft_1" version="1.0">
+  <author>PQCraft</author>
+  <description>Test theme 1</description>
+
+  <style name="text" foreground="#ffffff" background="#000000" />
+  <style name="selection" foreground="#000000" background="#9a9996" />
+  <style name="cursor" foreground="#ffffff" />
+  <style name="current-line" background="#3d3846" />
+  <style name="line-numbers" foreground="#c0bfbc" background="#000d22" />
+  <style name="draw-spaces" foreground="#777777" />
+  <style name="right-margin" foreground="#cccccc" background="#cccccc" />
+  <style name="background-pattern" background="#00213F" />
+  <style name="bracket-match" background="#5e5c64" />
+  <style name="bracket-mismatch" foreground="#000000" background="#990000" />
+  <style name="search-match" foreground="#ffffff" background="#00BF8C" />
+  <style name="bookmark" background="#777777" />
+  <style name="def:comment" foreground="#62a0ea" italic="true" />
+  <style name="def:shebang" italic="true" />
+  <style name="def:doc-comment-element" bold="true" />
+  <style name="def:constant" foreground="#f9f06b" />
+  <style name="def:string" foreground="#39d900" />
+  <style name="def:special-char" foreground="#b6d1ac" />
+  <style name="def:special-constant" foreground="#ed333b" bold="true" />
+  <style name="def:number" foreground="#ff3039" />
+  <style name="def:boolean" foreground="#f9f06b" />
+  <style name="def:keyword" foreground="#ffa348" bold="true" />
+  <style name="def:builtin" foreground="#ffa348" bold="true" />
+  <style name="def:variable" foreground="#cccccc" />
+  <style name="def:statement" foreground="#ffa348" />
+  <style name="def:type" foreground="#2e8dff" bold="true" />
+  <style name="def:emphasis" bold="true" />
+  <style name="def:strong-emphasis" foreground="#39d900" bold="true" />
+  <style name="def:insertion" underline="true" />
+  <style name="def:deletion" strikethrough="true" />
+  <style name="def:link-text" foreground="#3584e4" italic="true" />
+  <style name="def:link-symbol" foreground="#3584e4" italic="true" />
+  <style name="def:link-destination" underline="true" />
+  <style name="def:heading" foreground="#57e389" />
+  <style name="def:thematic-break" foreground="#77e6d8" />
+  <style name="def:list-marker" foreground="#ffa348" />
+  <style name="def:error" foreground="#ffffff" background="#990000" bold="true" />
+  <style name="def:warning" foreground="#ffffff" background="#ff0044" />
+  <style name="def:note" foreground="#f6d32d" bold="true" />
+  <style name="def:net-address" foreground="#8ff0a4" underline="true" />
+  <style name="def:preprocessor" foreground="#00e2e2" bold="true"/>
+  <style name="def:underlined" underline="true" />
+  <style name="c:included-file" foreground="#c6ffff" />
+  <style name="c:common-defines" foreground="#4ba0ea" bold="true" />
+  <style name="diff:ignore" foreground="#62a0ea" />
+  <style name="diff:added-line" foreground="#3ad900" />
+  <style name="diff:removed-line" foreground="#e01b24" />
+  <style name="diff:changed-line" foreground="#ffa348" />
+  <style name="diff:diff-file" foreground="#008fff" bold="true" />
+  <style name="diff:location" foreground="#3584e4" />
+  <style name="diff:special-case" foreground="#f8e45c" bold="true" />
+  <style name="sh:function" foreground="#f8e45c" />
+  <style name="xml:attribute-name" foreground="#cccccc" />
+  <style name="xml:element-name" foreground="#8ff0a4" />
+  <style name="xml:entity" foreground="#f8e45c" />
+  <style name="xml:processing-instruction" bold="true" />
+  <style name="added-line" foreground="#3ad900" />
+</style-scheme>

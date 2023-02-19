@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<style-scheme id="16colors" _name="16 Colors" version="1.0">
+  <author>PQCraft</author>
+  <_description>Old-style 16 color scheme based on "Cobalt" by Will Farrington</_description>
+
+  <!-- Colors -->
+  <color name="black" value="#000000"/>
+  <color name="blue" value="#0000AA"/>
+  <color name="green" value="#00AA00"/>
+  <color name="aqua" value="#00AAAA"/>
+  <color name="red" value="#AA0000"/>
+  <color name="magenta" value="#AA00AA"/>
+  <color name="yellow" value="#AAAA00"/>
+  <color name="lgrey" value="#AAAAAA"/>
+  <color name="grey" value="#555555"/>
+  <color name="lblue" value="#5555FF"/>
+  <color name="lgreen" value="#55FF55"/>
+  <color name="laqua" value="#55FFFF"/>
+  <color name="lred" value="#FF5555"/>
+  <color name="lmagenta" value="#FF55FF"/>
+  <color name="lyellow" value="#FFFF55"/>
+  <color name="white" value="#FFFFFF"/>
+
+  <!-- Global Settings -->
+
+  <style name="text"                        foreground="white" background="black"/>
+  <style name="selection"                   foreground="black" background="lgrey"/>
+  <style name="cursor"                      foreground="lgrey"/>
+  <style name="current-line"                background="blue"/>
+  <style name="line-numbers"                foreground="lgreen" background="black"/>
+  <style name="draw-spaces"                 foreground="green"/>
+  <style name="right-margin"                foreground="lgrey" background="grey"/>
+  <style name="background-pattern"          background="blue"/>
+
+  <!-- Bracket Matching -->
+  <style name="bracket-match"               foreground="yellow" background="grey"/>
+  <style name="bracket-mismatch"            foreground="white" background="red"/>
+
+  <!-- Search Matching -->
+  <style name="search-match"                foreground="white" background="lgreen"/>
+
+  <!-- Bookmarks FIXME -->
+  <style name="bookmark"                    background="black"/>
+
+  <!-- Comments -->
+  <style name="def:comment"                 foreground="lblue"/>
+  <style name="def:shebang"                 foreground="lblue"/>
+  <style name="def:doc-comment-element"    />
+
+  <!-- Constants and Variables-->
+  <style name="def:constant"                foreground="lmagenta"/>
+  <style name="def:string"                  foreground="lgreen"/>
+  <style name="def:special-char"            foreground="lgrey"/>
+  <style name="def:special-constant"        foreground="lmagenta"/>
+  <style name="def:number"                  foreground="lred"/>
+  <style name="def:floating-point"          foreground="lred"/>
+  <style name="def:keyword"                 foreground="lyellow"/>
+  <style name="def:builtin"                 foreground="lyellow"/>
+  <style name="def:variable"                foreground="lgrey"/>
+
+  <!-- Identifiers -->
+  <style name="def:identifier"              foreground="lgrey"/>
+  <style name="def:function"                use-style="def:identifier"/>
+
+  <!-- Statements -->
+  <style name="def:statement"               foreground="lyellow"/>
+
+  <!-- Types -->
+  <style name="def:type"                    foreground="aqua"/>
+
+  <!-- Others -->
+  <style name="def:error"                   foreground="white" background="red"/>
+  <style name="def:warning"                 foreground="white" background="lyellow"/>
+  <style name="def:note"                    foreground="lyellow"/>
+  <style name="def:net-address-in-comment"  foreground="aqua" italic="false" underline="single"/>
+  <style name="def:preprocessor"            foreground="lgrey"/>
+
+  <!-- Heading styles, uncomment to enable -->
+  <!--
+  <style name="def:heading0"                scale="5.0"/>
+  <style name="def:heading1"                scale="2.5"/>
+  <style name="def:heading2"                scale="2.0"/>
+  <style name="def:heading3"                scale="1.7"/>
+  <style name="def:heading4"                scale="1.5"/>
+  <style name="def:heading5"                scale="1.3"/>
+  <style name="def:heading6"                scale="1.2"/>
+  -->
+
+  <!-- Unknown? -->
+  <style name="def:specials"                foreground="white" background="magenta"/>
+  <style name="def:boolean"                 foreground="magenta"/>
+
+  <!-- C Styles -->
+  <style name="c:preprocessor"              foreground="laqua"/>
+  <style name="c:included-file"             foreground="laqua"/>
+  <style name="c:common-defines"            foreground="laqua"/>
+
+  <!-- Diff Styles -->
+  <style name="diff:ignore"                 foreground="grey"/>
+  <style name="diff:added-line"             foreground="green"/>
+  <style name="diff:removed-line"           foreground="red"/>
+  <style name="diff:changed-line"           foreground="yellow"/>
+  <style name="diff:diff-file"              foreground="laqua"/>
+  <style name="diff:location"               foreground="laqua"/>
+  <style name="diff:special-case"           foreground="lred"/>
+
+  <!-- Ruby Styles -->
+  <style name="ruby:module-handler"         foreground="aqua"/>
+  <style name="ruby:symbol"                 foreground="lred"/>
+  <style name="ruby:regex"                  foreground="laqua"/>
+
+  <!-- SH Styles -->
+  <style name="sh:function"                 foreground="magenta"/>
+
+  <!-- XML Styles -->
+  <style name="xml:attribute-name"          foreground="lgrey"/>
+  <style name="xml:element-name"            foreground="laqua"/>
+  <style name="xml:entity"                  foreground="white"/>
+  <style name="xml:processing-instruction" />
+
+</style-scheme>
