@@ -2,13 +2,13 @@
 
 ---
 
-### **Languages:** <br>
-**I know (ordered by level, low to high):** <!--x86 AT&T Assembly, x86 Intel Assembly, -->C, C++, Shell Script, Batch Script, BASIC, HTML, CSS, JavaScript, and Scratch<br>
+### **Languages:**
+**I know (ordered by level, low to high):** C, C++, Shell Script, Batch Script, BASIC, HTML, CSS, JavaScript, and Scratch<br>
 **Top 3 favorites:** C, Shell Script, and BASIC<br>
 **Top 3 least-favorites:** C++, Batch Script, and CSS<br>
-### **What I'm Currently Working On:** <br>
+### **What I'm Currently Working On:**
 [CaveCube](https://github.com/PQCraft/CaveCube) and [Wizardry](https://github.com/Wizardry-PL)<br>
-### **Contact Me:** <br>
+### **Contact Me:**
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
 
 ---
