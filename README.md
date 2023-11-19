@@ -3,7 +3,7 @@
 ---
 
 ### **Languages:**
-**I know (ordered by level, low to high):** C, C++, Shell Script, Batch Script, BASIC, HTML, CSS, JavaScript, and Scratch<br>
+**I know (ordered by level, low to high):** C, C++, Python, Shell Script, Batch Script, BASIC, HTML, CSS, JavaScript, and Scratch<br>
 **Top 3 favorites:** C, Shell Script, and BASIC<br>
 **Top 3 least-favorites:** C++, Batch Script, and CSS<br>
 ### **What I'm Currently Working On:**
