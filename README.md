@@ -15,5 +15,4 @@
 
 [
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pqcraft&layout=compact&theme=github_dark&hide_border=true)<br>
-![Stats](https://github-readme-stats.vercel.app/api?username=pqcraft&show_icons=true&theme=github_dark&hide_border=true)
 ](#?)
