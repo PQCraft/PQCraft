@@ -3,7 +3,7 @@
 Progress can be found [here](TODO.md)
 
 ---
-https://github.com/PQCraft/PQCraft/raw/master/simplescreenrecorder-2024-01-07_22.30.39.mp4
+https://github.com/PQCraft/PQCraft/blob/master/simplescreenrecorder-2024-01-07_22.30.39.mp4
 
 
 https://github.com/PQCraft/PQCraft/assets/58464017/600f7f98-479d-4783-a9b4-8fe3d0edee37
