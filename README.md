@@ -3,7 +3,7 @@
 ---
 
 ### **Current Projects**
-[PlatinumSrc](https://github.com/PQCraft/PlatinumSrc) - A retro multi-platform 3D game engine inspired by GoldSrc, Quake, and HaloCE<br>
+[PlatinumSrc](https://github.com/PQCraft/PlatinumSrc) - A retro 3D multi-platform game engine inspired by GoldSrc, Quake, and Halo CE<br>
 
 ### **Previous Projects**
 [CaveCube](https://github.com/PQCraft/CaveCube) - A voxel game/engine<br>
