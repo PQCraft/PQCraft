@@ -13,6 +13,7 @@
 [CaveCube](https://github.com/PQCraft/CaveCube) - A voxel game/engine<br>
 [QHD](https://github.com/PQCraft/QHD) - A neatly formatted hexdump tool<br>
 [terminal-pong](https://github.com/PQCraft/terminal-pong) - A pong game for the terminal<br>
+[CLIBASIC](https://github.com/PQCraft/CLIBASIC) - A command-line BASIC interpreter<br>
 
 ### **Contact Me:**
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
