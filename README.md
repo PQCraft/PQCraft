@@ -13,7 +13,7 @@
 
 ### **About Me**
 **Languages I know (ordered from lowest to highest level):** C, C++, Python, GDScript, Shell Script, Makefile, BASIC, HTML, CSS, JavaScript, and Scratch<br>
-**Top 3 favorite languages:** C, Shell Script, and BASIC<br>
+**Top 3 favorite languages:** C, BASIC, and Shell Script<br>
 
 ### **Contacts**
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
