@@ -2,10 +2,6 @@
 
 ---
 
-### **Languages:**
-**I know (ordered by level, low to high):** C, C++, Python, Shell Script, BASIC, HTML, CSS, JavaScript, and Scratch<br>
-**Top 3 favorites:** C, Shell Script, and BASIC<br>
-
 ### **Current Projects**
 [PlatinumSrc](https://github.com/PQCraft/PlatinumSrc) - A retro multi-platform 3D game engine inspired by GoldSrc, Quake, and HaloCE<br>
 
@@ -15,7 +11,11 @@
 [terminal-pong](https://github.com/PQCraft/terminal-pong) - A pong game for the terminal<br>
 [CLIBASIC](https://github.com/PQCraft/CLIBASIC) - A command-line BASIC interpreter<br>
 
-### **Contact Me:**
+### **About Me**
+**Languages I know (ordered from lowest to highest level):** C, C++, Python, GDScript Shell Script, BASIC, HTML, CSS, JavaScript, and Scratch<br>
+**Top 3 favorite languages:** C, Shell Script, and BASIC<br>
+
+### **Contacts**
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
 
 ---
