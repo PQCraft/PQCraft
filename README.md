@@ -7,7 +7,8 @@
 **Top 3 favorites:** C, Shell Script, and BASIC<br>
 **Top 3 least-favorites:** C++, Batch Script, and CSS<br>
 ### **What I'm Currently Working On:**
-[PlatinumSrc](https://github.com/PQCraft/PlatinumSrc) and [Wizardry](https://github.com/Wizardry-PL)<br>
+[PlatinumSrc](https://github.com/PQCraft/PlatinumSrc)<br>
+> A WIP 3D retro game engine inspired by GoldSrc and Quake 
 ### **Contact Me:**
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
 
