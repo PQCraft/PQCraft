@@ -12,7 +12,7 @@
 [CLIBASIC](https://github.com/PQCraft/CLIBASIC) - A command-line BASIC interpreter<br>
 
 ### **About Me**
-**Languages I know (ordered from lowest to highest level):** C, C++, Python, GDScript Shell Script, BASIC, HTML, CSS, JavaScript, and Scratch<br>
+**Languages I know (ordered from lowest to highest level):** C, C++, Python, GDScript, Shell Script, BASIC, HTML, CSS, JavaScript, and Scratch<br>
 **Top 3 favorite languages:** C, Shell Script, and BASIC<br>
 
 ### **Contacts**
