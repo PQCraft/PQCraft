@@ -17,9 +17,3 @@
 
 ### **Contacts**
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
-
----
-
-[
-![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pqcraft&layout=compact&theme=github_dark&hide_border=true)<br>
-](#?)
