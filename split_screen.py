@@ -82,8 +82,22 @@ elif len(sys.argv) > 1:
 
 print(f"Splitting a {screen_w}x{screen_h} screen into {tile_count} tiles...")
 tiles = split_screen(screen_w, screen_h, tile_count)
+tclen = len(str(len(tiles)))
+mxlen = 0
+mylen = 0
+malen = 0
+mslen = 0
 for t in tiles:
-    print(f"  x: {t.x}, y: {t.y}, w: {t.w}, h: {t.h}")
+    l = len(str(t.x))
+    if l > mxlen: mxlen = l
+    l = len(str(t.y))
+    if l > mylen: mylen = l
+    l = len(f"{t.w * t.h}")
+    if l > malen: malen = l
+    l = len(f"{t.w}x{t.h}")
+    if l > mslen: mslen = l
+for i, t in enumerate(tiles):
+    print("  " + str(i + 1).rjust(tclen) + ". \t(" + str(t.x).ljust(mxlen) + ", " + str(t.y).ljust(mylen) + ")  -  " + f"{t.w}x{t.h}".ljust(mslen) + " (" + f"{t.w * t.h}".rjust(malen) + ")")
 
 # quick and dirty graphical stuff (ignore all this below)
 
@@ -94,7 +108,6 @@ root.title("Loading...")
 root.geometry(f"{screen_w}x{screen_h}")
 canv = tk.Canvas(root, width = screen_w, height = screen_h, background = "black", highlightthickness = 0)
 canv.pack()
-
 
 def draw(tiles):
     root.title(f"{screen_w}x{screen_h} ({screen_w * screen_h}), {len(tiles)} tiles")
