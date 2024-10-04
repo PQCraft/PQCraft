@@ -12,7 +12,7 @@ tile_count = 4
 
 import sys
 from math import sqrt
-from dataclasses import dataclass, field, KW_ONLY
+from dataclasses import dataclass, field
 import tkinter as tk
 
 @dataclass(kw_only = True)
