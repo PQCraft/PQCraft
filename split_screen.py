@@ -15,9 +15,8 @@ from math import sqrt
 from dataclasses import dataclass, field, KW_ONLY
 import tkinter as tk
 
-@dataclass
+@dataclass(kw_only = True)
 class tile:
-    _: KW_ONLY
     w: int = 0
     h: int = 0
     x: int = 0
