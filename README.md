@@ -12,7 +12,8 @@
 [CLIBASIC](https://github.com/PQCraft/CLIBASIC) - A command-line BASIC interpreter<br>
 
 ### **About Me**
-**Languages I know:** C, C++, Python, Shell Script, Makefile, BASIC, HTML, CSS, JavaScript, Liquid, Markdown, and Scratch<br>
+**Programming languages I know:** C, C++, Python, Shell Script, Makefile, BASIC, JavaScript, Liquid, and Scratch<br>
+**Markup and other types of languages I know:** HTML, CSS, Markdown, and Roff<br>
 **Top 3 favorite languages:** C, BASIC, and Shell Script<br>
 
 ### **Contacts**
