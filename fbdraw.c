@@ -88,9 +88,9 @@ DEFCMD(tri);
 
 int main(int argc, char** argv) {
     if (argc != 3 || !*argv[1] || !*argv[2]) {
-        puts(VERSTR);
-        fprintf(stderr, "%s FRAMEBUFFER COMMANDS\n", argv[0]);
-        fprintf(stderr, "Use the h or help command for more info.\n");
+        fputs(VERSTR "\n", stderr);
+        printf(stderr, "%s FRAMEBUFFER COMMANDS\n", argv[0]);
+        printf(stderr, "Use the h or help command for more info.\n");
         return 1;
     }
     int fd = open(argv[1], O_RDWR);
