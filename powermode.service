@@ -1,0 +1,9 @@
+[Unit]
+Description=Service for /usr/local/bin/powermode
+
+[Service]
+Type=exec
+ExecStart=/usr/local/bin/powermode
+
+[Install]
+WantedBy=multi-user.target

@@ -28,16 +28,30 @@ setmode() {
             echo default > "$e"
         done
     fi
-    printf 'Switched to mode %s\n' "$1"
 }
 
+cleanup() {
+    rm -f /run/powermode.socket
+    exit 0
+}
+trap cleanup EXIT INT TERM
+rm -f /run/powermode.socket
+mkfifo /run/powermode.socket
+
 LASTMODE=
+SOCKCMD=
 while true; do
     CURMODE="$(cat "$CHARGER/online")"
     if [ "$CURMODE" != "$LASTMODE" ]; then
-        udevadm trigger "$CHARGER" &
-        setmode "$CURMODE"
+        if [ ! "$SOCKCMD" == "fromudev" ]; then
+            udevadm trigger "$CHARGER" &
+            setmode "$CURMODE"
+            printf 'Switched to mode %s\n' "$CURMODE"
+        else
+            setmode "$CURMODE"
+            printf 'Switched to mode %s (triggered by udev)\n' "$CURMODE"
+        fi
         LASTMODE="$CURMODE"
     fi
-    sleep 2
+    read -rs -t3 SOCKCMD <> /run/powermode.socket
 done
