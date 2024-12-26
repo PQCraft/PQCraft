@@ -1,0 +1,43 @@
+#!/bin/bash
+
+while [ ! -d /sys/devices ]; do sleep 1; done
+
+CHARGER=
+for d in /sys/class/power_supply/*; do
+    if [ "$(cat "$d/type")" == Mains ]; then
+        CHARGER="$(readlink -f "$d")"
+    fi
+done
+if [ -z "$d" ]; then
+    echo 'Could not find a charger device'
+    exit 1
+fi
+printf 'Found charger at %s\n' "$CHARGER"
+
+for g in /sys/devices/system/cpu/cpu*/cpufreq/scaling_governor; do
+    echo powersave > "$g"
+done
+
+setmode() {
+    if [ "$1" -eq 0 ]; then
+        for e in /sys/devices/system/cpu/cpu*/cpufreq/energy_performance_preference; do
+            echo power > "$e"
+        done
+    else
+        for e in /sys/devices/system/cpu/cpu*/cpufreq/energy_performance_preference; do
+            echo default > "$e"
+        done
+    fi
+    printf 'Switched to mode %s\n' "$1"
+}
+
+LASTMODE=
+while true; do
+    CURMODE="$(cat "$CHARGER/online")"
+    if [ "$CURMODE" != "$LASTMODE" ]; then
+        udevadm trigger "$CHARGER" &
+        setmode "$CURMODE"
+        LASTMODE="$CURMODE"
+    fi
+    sleep 2
+done
