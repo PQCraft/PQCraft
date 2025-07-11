@@ -4,7 +4,7 @@
 
 ### **Current Projects**
 [PlatinumSrc](https://github.com/PQCraft/PlatinumSrc) - A retro 3D multi-platform game engine inspired by GoldSrc, Quake, and Halo CE<br>
-[BCBASIC](https://github.com/PQCraft/BCBASIC) - An embeddable and extendable BASIC implementation that compiles to bytecode<br>
+[BCBASIC](https://github.com/PQCraft/BCBASIC) - An embeddable and extendable BASIC dialect that compiles to bytecode<br>
 
 ### **Previous Projects**
 [CaveCube](https://github.com/PQCraft/CaveCube) - A voxel game/engine<br>
