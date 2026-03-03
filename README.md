@@ -4,6 +4,8 @@
 
 ### **Projects**
 [PlatinumSrc](https://github.com/PQCraft/PlatinumSrc) - A retro 3D multi-platform game engine inspired by GoldSrc, Quake, and Halo CE<br>
+[DUI](https://codeberg.org/non-bloat-collective/DUI) - A C99 desktop UI library<br>
+[ConfIO](https://codeberg.org/non-bloat-collective/ConfIO) - A C99 INI-like config reading and writing library<br>
 [Octree-Test](https://github.com/PQCraft/Octree-Test) - A C89 OpenGL 1.1 demo of octree map compiling and rendering<br>
 [QHD](https://github.com/PQCraft/QHD) - A neatly formatted hexdump tool<br>
 [terminal-pong](https://github.com/PQCraft/terminal-pong) - A pong game for the terminal<br>
