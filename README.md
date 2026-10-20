@@ -1,9 +1,9 @@
-### **About Me**
+## **About Me**
 **Programming languages I know:** C, C++, Python, Shell Script, Makefile, BASIC, Lua, JavaScript, Liquid, and Scratch<br>
 **Markup and other types of languages I know:** HTML, CSS, Markdown, and Roff<br>
 **Top 3 favorite languages:** BASIC, C, and Shell Script<br>
 
-### **Projects**
+## **Projects**
 [PlatinumSrc](https://github.com/PQCraft/PlatinumSrc) - A retro 3D multi-platform game engine inspired by GoldSrc, Quake, and Halo CE<br>
 [DUI](https://codeberg.org/non-bloat-collective/DUI) - A C99 desktop UI library<br>
 [ConfIO](https://codeberg.org/non-bloat-collective/ConfIO) - A C99 INI-like config reading and writing library<br>
@@ -15,5 +15,5 @@
 [BCBASIC](https://github.com/PQCraft/BCBASIC) - An embeddable and extendable BASIC dialect that compiles to bytecode<br>
 [CLIBASIC](https://github.com/PQCraft/CLIBASIC) - A command-line BASIC interpreter<br>
 
-### **Contacts**
+## **Contacts**
 **Email:** [0456523@gmail.com](mailto:0456523@gmail.com)<br>
