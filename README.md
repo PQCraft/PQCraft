@@ -1,7 +1,7 @@
 ### **About Me**
 **Programming languages I know:** C, C++, Python, Shell Script, Makefile, BASIC, Lua, JavaScript, Liquid, and Scratch<br>
 **Markup and other types of languages I know:** HTML, CSS, Markdown, and Roff<br>
-**Top 3 favorite languages:** C, BASIC, and Shell Script<br>
+**Top 3 favorite languages:** BASIC, C, and Shell Script<br>
 
 ### **Projects**
 [PlatinumSrc](https://github.com/PQCraft/PlatinumSrc) - A retro 3D multi-platform game engine inspired by GoldSrc, Quake, and Halo CE<br>
